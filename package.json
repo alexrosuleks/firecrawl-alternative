@@ -1,0 +1,19 @@
+{
+  "name": "firecrawl-alternative",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Firecrawl alternative for AI-ready web data: crawl whole sites to Markdown from $0.103 per 1,000 pages plus usage, 100s of ready scrapers and an MCP server.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
